@@ -7,7 +7,7 @@
     The main idea behind this exercise is to get familiar with <b>Python 3</b> and the <b>Turtle library</b>.
     <br>
     <br>
-    <a href="https://github.com/LielAmar/Introduction-To-CS-solutions"><strong>« Home Page</strong></a>
+    <a href="https://github.com/OmerFerster/Introduction-To-CS-solutions"><strong>« Home Page</strong></a>
     <br>
   </p>
 </div>
