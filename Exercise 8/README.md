@@ -2,7 +2,7 @@
   <h1 align="center" style="border-bottom: none"><b>Exercise 8</b> - Rush Hour</h1>
 
   <p align="center">
-    <b>Rush Hour</b> is the 9th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
+    <b>Rush Hour</b> is the 8th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
     <br>
     The main idea behind this exercise is to get familiar with <b>Advanced Programing Concepts</b> and <b>OOP</b>.
     <br>
