@@ -56,7 +56,7 @@
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <a href="./Exercise 4"><img src="./Exercise 4/media/1.jpg" alt="Hangman game" width="300px" /></a>
+    <a href="./Exercise 4"><img src="./Exercise 4/media/1.png" alt="Hangman game" width="300px" /></a>
     <br>
     <a href="./Exercise 8"><img src="./Exercise 8/media/1.png" alt="Rush Hour game" width="300px" /></a>
     <br>
