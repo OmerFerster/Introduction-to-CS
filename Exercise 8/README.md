@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center" style="border-bottom: none"><b>Exercise 9</b> - Rush Hour</h1>
+  <h1 align="center" style="border-bottom: none"><b>Exercise 8</b> - Rush Hour</h1>
 
   <p align="center">
     <b>Rush Hour</b> is the 9th exercise I've solved in Huji's <b>Introduction to Computer Science</b> course.
