@@ -1,0 +1,17 @@
+meningitis
+healthy 
+healthy
+mono a
+mono a b
+strep c
+strep c d
+strep c d e
+cold f
+cold f g
+cold f g h
+cold f g h i
+influenza j
+influenza j k
+influenza j k l 
+influenza j k l m
+influenza j k l m n
