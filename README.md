@@ -56,11 +56,9 @@
   <h2 align="left" style="border-bottom: 1px solid gray">Media</h2>
 
   <div align="left">
-    <a href="./Exercise 5"><img src="./Exercise 5/media/1.jpg" alt="image-processing result" width="300px" /></a>
+    <a href="./Exercise 4"><img src="./Exercise 4/media/1.jpg" alt="Hangman game" width="300px" /></a>
     <br>
-    <a href="./Exercise 7"><img src="./Exercise 7/media/1.png" alt="hanoi end" width="300px" /></a>
-    <br>
-    <a href="./Exercise 10"><img src="./Exercise 10/media/1.png" alt="snake" width="300px" /></a>
+    <a href="./Exercise 8"><img src="./Exercise 8/media/1.png" alt="Rush Hour game" width="300px" /></a>
     <br>
   </div>
 </div>
