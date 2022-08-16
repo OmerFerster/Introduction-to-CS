@@ -32,29 +32,21 @@
     <li><a href="./Exercise 4"><b>Exercise 4 - Hangman »</b></a></li>
     <ul><li style="list-style: none;">⤷ The popular Hangman game implemented in Python</li></ul>
     <br>
-    <li><a href="./Exercise 5"><b>Exercise 5 - Image Processing »</b></a></li>
-    <ul><li style="list-style: none;">⤷ Introduction to Image Processing in Python</li></ul>
+    <li><a href="./Exercise 5"><b>Exercise 5 - Words Ditector »</b></a></li>
+    <ul><li style="list-style: none;">⤷ Words Ditector on Matrices Game</li></ul>
     <br>
-    <li><a href="./Exercise 6"><b>Exercise 6 - Moogle »</b></a></li>
-    <ul><li style="list-style: none;">⤷ Web Scraping and Page Ranking</li></ul>
+    <li><a href="./Exercise 6"><b>Exercise 6 - Hanoi-Game »</b></a></li>
+    <ul><li style="list-style: none;">⤷ Hanoi with Recursive Forms</li></ul>
     <br>
-    <li><a href="./Exercise 7"><b>Exercise 7 - Recursion »</b></a></li>
-    <ul><li style="list-style: none;">⤷ Recursion algorithms</li></ul>
+    <li><a href="./Exercise 7"><b>Exercise 7 - NonoGram Game »</b></a></li>
+    <ul><li style="list-style: none;">⤷ Recursion & BackTracking algorithms</li></ul>
     <br>
-    <li><a href="./Exercise 8"><b>Exercise 8 - Puzzle Solver »</b></a></li>
-    <ul><li style="list-style: none;">⤷ A Python Puzzle-Solver using Backtracking</li></ul>
+    <li><a href="./Exercise 8"><b>Exercise 8 - Rush Hour »</b></a></li>
+    <ul><li style="list-style: none;">⤷ A Car's game using OOP</li></ul>
     <br>
-    <li><a href="./Exercise 9"><b>Exercise 9 - Rush Hour »</b></a></li>
-    <ul><li style="list-style: none;">⤷ The popular Rush Hour game implemented in Python</li></ul>
-    <br>
-    <li><a href="./Exercise 10"><b>Exercise 10 - Snake »</b></a></li>
-    <ul><li style="list-style: none;">⤷ My implementation to the Snake game, using Python's OOP</li></ul>
-    <br>
-    <li><a href="./Exercise 11"><b>Exercise 11 - Decision Trees »</b></a></li>
+    <li><a href="./Exercise 11"><b>Exercise 9 - Decision Trees »</b></a></li>
     <ul><li style="list-style: none;">⤷ A Decision Trees implementation for illnesses</li></ul>
     <br>
-    <li><a href="./Exercise 12"><b>Exercise 12 - Boggle »</b></a></li>
-    <ul><li style="list-style: none;">⤷ A Custom GUI implementation of the Boggle game</li></ul>
   </ul>
 </div>
 
@@ -70,7 +62,6 @@
     <br>
     <a href="./Exercise 10"><img src="./Exercise 10/media/1.png" alt="snake" width="300px" /></a>
     <br>
-    <a href="./Exercise 12"><img src="./Exercise 12/media/1.png" alt="boggle" width="300px" /></a>
   </div>
 </div>
 
